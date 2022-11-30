@@ -1,6 +1,7 @@
 # Tableau-Dashboard-Alaska-Airlines
 The visualization uses Tableau to analyze on-time performance and competing airlines for Alaska Airlines
 
+Data source : 2019 dataset for flight arrival and departure
 Key Metrices:
 
 - Identification of delayed routes
